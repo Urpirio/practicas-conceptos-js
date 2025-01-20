@@ -99,6 +99,7 @@ console.log( oracion.replace("H","M"))//Esto se usa para remplazar una parte esp
    let junita = new personas("juanita","18 años")
    
    console.log(junita)
+   
       
    
   
